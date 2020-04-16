@@ -150,3 +150,9 @@ a:hover {
 .about-content{
   padding-bottom: 250px;
 }
+
+.about-author img {
+  width: 350px;
+  height: 350px;
+  vertical-align: middle;
+}
